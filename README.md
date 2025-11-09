@@ -1,5 +1,5 @@
 # Naan-Mudhalvan-Project-ServiceNow-Workflow-Optimization
-riefly describe your project (e.g., “ServiceNow Workflow Automation project under Naan Mudhalvan scheme
+briefly describe your project (e.g., “ServiceNow Workflow Automation project under Naan Mudhalvan scheme
 
  Team Members
 - Malathi  
@@ -11,12 +11,14 @@ College:M.E.T Engineering College
 Department: Computer Science and Engineering (CSE)  
 Batch: 2022–2026  
 
-Abstract
+📝 Abstract
+
 This project focuses on developing an optimized ServiceNow-based workflow system that automates and streamlines user roles, group assignments, and access control processes.  
 The goal is to reduce manual intervention, minimize configuration errors, and improve organizational workflow efficiency.  
 By applying smart automation principles, the system dynamically assigns user permissions and maintains better security governance across enterprise applications.
 
 Objectives
+
  Automate role and group assignments based on user attributes.  
  Simplify the workflow approval process in ServiceNow.  
  Improve visibility and control over access management.  
